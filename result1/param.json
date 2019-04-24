@@ -1,0 +1,8 @@
+{
+  "image": "Test.png",
+  "sigma": 1.4,
+  "highThresholdRatio" : 0.2,
+  "lowThresholdRatio" : 0.15,
+  "uselibrary" : "True",
+  "saveoutput" : "True"
+}
