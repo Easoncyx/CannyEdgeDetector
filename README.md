@@ -93,7 +93,7 @@ Applying hysteresis threshold using parameter specified in the param.json
 
 ![pic3](README.assets/pic3.png)
 
-![Final image](README.assets/Final image.png)
+![Final image](README.assets/Finalimage.png)
 
 ### Result 2
 
@@ -109,7 +109,7 @@ Applying hysteresis threshold using parameter specified in the param.json
 
 ```
 
-![Final image](README.assets/Final image-5966316.png)
+![Final image](README.assets/Finalimage-5966316.png)
 
 Increase the highThresholdRatio and decrease the lowThresholdRatio, we get:
 
@@ -127,5 +127,5 @@ Increase the highThresholdRatio and decrease the lowThresholdRatio, we get:
 
 
 
-![Final image](README.assets/Final image-5966434.png)
+![Final image](README.assets/Finalimage-5966434.png)
 
